@@ -1,0 +1,1 @@
+{"version":3,"file":"responseModel.js","sourceRoot":"","sources":["../../src/dataTransferModel/responseModel.ts"],"names":[],"mappings":";;;AAEA;IAKI,uBAAY,OAAgB,EAAE,IAAS,EAAE,GAAQ;QAJjD,YAAO,GAAY,KAAK,CAAC;QAKrB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;QACvB,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;QACjB,IAAI,CAAC,KAAK,GAAG,GAAG,CAAC;IACrB,CAAC;IACL,oBAAC;AAAD,CAAC,AAVD,IAUC;AAVY,sCAAa"}
